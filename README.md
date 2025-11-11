@@ -1,2 +1,13 @@
 # First-AI-Agent
 My first AI Agent using Google ADK.
+
+# My First AI Agent (ADK Codelab #1)
+
+This is my first AI Agent built using the Google Agent Development Kit (ADK).
+
+## What it does
+It responds to user questions using the Gemini model.
+
+## How to run
+1. Clone this repo.
+2. Install requirements:
