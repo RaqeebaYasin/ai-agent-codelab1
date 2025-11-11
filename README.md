@@ -10,4 +10,5 @@ It responds to user questions using the Gemini model.
 
 ## How to run
 1. Clone this repo.
-2. Install requirements:
+2. Install requirements:   pip install -r requirements.txt
+3. Run the agent:    python agent.py
